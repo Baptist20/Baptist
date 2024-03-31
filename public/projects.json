@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "Wild Oasis",
+    "category": "Advanced",
+    "image": "images/wildOasis.png",
+    "ref": "https://wild-oasis-gules.vercel.app"
+  },
+  {
+    "id": 2,
+    "title": "Atomic Blog",
+    "category": "intermediary ",
+    "image": "images/atomicBlog.png",
+    "ref": "https://github.com/Baptist20/atomic-blog"
+  },
+  {
+    "id": 3,
+    "title": "Classy Weather",
+    "category": "intermediary ",
+    "image": "images/classy-weather.png",
+    "ref": "https://github.com/Baptist20/classy-weather"
+  },
+  {
+    "id": 4,
+    "title": "Eat and Split",
+    "category": "intermediary ",
+    "image": "images/Eat-and-split.png",
+    "ref": "https://github.com/Baptist20/eat-and-split-bill"
+  },
+  {
+    "id": 5,
+    "title": "Far Away",
+    "category": "Basic",
+    "image": "images/Far-Away.png",
+    "ref": "https://github.com/Baptist20/travel-list"
+  },
+  {
+    "id": 7,
+    "title": "Pizza Menu",
+    "category": "intermediary ",
+    "image": "images/Fast-React-Pizza-App-Basic.png",
+    "ref": "https://github.com/Baptist20/pizza-menu"
+  },
+  {
+    "id": 6,
+    "title": "Fast React Pizza",
+    "category": "Advanced",
+    "image": "images/Fast-React-Pizza-App-Advanced.png",
+    "ref": "https://github.com/Baptist20/React-Pizza-App"
+  },
+
+  {
+    "id": 8,
+    "title": "UsePopcorn",
+    "category": "Advanced",
+    "image": "images/use-Popcorn-app.png",
+    "ref": "https://github.com/Baptist20/use-popcorn"
+  },
+  {
+    "id": 9,
+    "title": "Work Out Timer",
+    "category": "Basic",
+    "image": "images/workoutTimer.png",
+    "ref": "https://github.com/Baptist20/workout-timer.git"
+  },
+  {
+    "id": 10,
+    "title": "World Wise",
+    "category": "Advanced",
+    "image": "images/worldWise.png",
+    "ref": "https://github.com/Baptist20/world-wise"
+  }
+]
