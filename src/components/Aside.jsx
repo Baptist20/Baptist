@@ -66,8 +66,8 @@ function Aside() {
             <div className="contact-info">
               <p className="contact-title">Phone</p>
 
-              <a href="tel:+2349011078726" className="contact-link">
-                +234 (90) 110-78726
+              <a href="tel:+2347067562814" className="contact-link">
+                +234 706 756 2814
               </a>
             </div>
           </li>
