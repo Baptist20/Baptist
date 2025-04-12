@@ -30,7 +30,7 @@ function Aside() {
             Ezimah Baptist.
           </h1>
 
-          <p className="title">React Developer</p>
+          <p className="title">MERN Developer</p>
         </div>
 
         {/* <button className="info_more-btn" data-sidebar-btn>
