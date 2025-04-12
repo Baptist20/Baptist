@@ -8,7 +8,7 @@ const servicesData = [
   {
     icon: "/images/icon-dev.svg",
     title: "Web development",
-    description: "HTML, CSS, TAILWIND, BOOTSTRAP, JAVASCRIPT and REACT.",
+    description: "HTML, CSS, TAILWIND, JAVASCRIPT REACT, REACT + VITE, NEXT.js, EXPRESS.js, MONGOOSE, MONGODB.",
   },
 ];
 
